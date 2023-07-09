@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana Anand Hatture</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/242/482/large_2x/female-developer-vector.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanahatture4&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanahatture4" /> </p>
 
